@@ -2,7 +2,7 @@
 /**
  * Plugin Name: WP Cron Inspector
  * Description: Inspect, debug, and manually run WordPress cron jobs from the admin dashboard or WP-CLI.
- * Version: 1.0.0
+ * Version: 1.1.0
  * Author: Best Website
  * Author URI: https://bestwebsite.com/
  * License: GPL-2.0+
@@ -11,7 +11,7 @@
 
 if (!defined('ABSPATH')) exit;
 
-define('WPCI_VERSION', '1.0.0');
+define('WPCI_VERSION', '1.1.0');
 define('WPCI_PATH', plugin_dir_path(__FILE__));
 
 require_once WPCI_PATH . 'includes/class-wpci-core.php';
