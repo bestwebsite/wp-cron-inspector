@@ -1,0 +1,24 @@
+- name: feat
+  color: 1E90FF
+  description: New feature
+- name: fix
+  color: FF0000
+  description: Bug fix
+- name: docs
+  color: 0072B2
+  description: Documentation updates
+- name: enhancement
+  color: 00BFFF
+  description: Feature improvement or refinement
+- name: maintenance
+  color: 98FB98
+  description: General maintenance and housekeeping
+- name: deps
+  color: 4682B4
+  description: Dependency update
+- name: good first issue
+  color: 9370DB
+  description: Beginner-friendly issue
+- name: help wanted
+  color: 3CB371
+  description: Contributions welcome
